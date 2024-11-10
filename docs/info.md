@@ -8,13 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+It doesn't do anything yet, not done
 
 ## How to test
-
-Explain how to use your project
+It doesn't do anything yet, not done
 
 ## External hardware
+It doesn't do anything yet, not done
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
