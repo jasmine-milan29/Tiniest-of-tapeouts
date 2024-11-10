@@ -8,11 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-It doesn't do anything yet, not done
+Guess a number! If the light lights up you win
 
 ## How to test
-It doesn't do anything yet, not done
+Guess!
 
 ## External hardware
-It doesn't do anything yet, not done
+Connect LED to output 0
 
